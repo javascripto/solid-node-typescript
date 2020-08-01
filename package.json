@@ -5,7 +5,7 @@
   "author": "Yuri Almeida <yurialves2@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "tsnd src/server.ts --transpileOnly --respawn --ignore-watch node_modules"
+    "start": "tsnd src/server.ts --transpile-only --respawn --ignore-watch node_modules"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
